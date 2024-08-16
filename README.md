@@ -7,6 +7,8 @@ Pre-owned Car Price Prediction;	Jul-Aug, 2024;
 
 
 
+**Problem Statement**
+
 The primary objective of this project is to develop a robust predictive model for estimating the price of pre-owned cars using regression techniques. Specifically, the study seeks to:
 - Optimize regression models by handling missing data effectively.
 - Evaluate the performance of Linear Regression and Random Forest models.
