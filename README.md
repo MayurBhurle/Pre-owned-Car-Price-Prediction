@@ -1,7 +1,10 @@
 **Resume Pointer**:
 
 
-Pre-owned Car Price Prediction;	Jul-Aug, 2024;
+Pre-owned Car Price Prediction;	
+
+
+
 ◦	Optimized regression models for car price prediction by managing missing data & feature selection.
 
 
